@@ -1,6 +1,6 @@
 # In terminal
 
-<p>pip install --upgrade pip<b>
+<p>pip install --upgrade pip</p>
 pip install numpy matplotlib pillow requests<b>
 pip install openai<b>
 pip install transformers torch<b>
