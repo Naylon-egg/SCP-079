@@ -1,9 +1,9 @@
 # In terminal
 
 <p>pip install --upgrade pip</p>
-pip install numpy matplotlib pillow requests<b>
-pip install openai<b>
-pip install transformers torch<b>
-pip install pyttsx3 speechrecognition pyaudio<b>
-pip install langchain chromadb<b>
-</p>
+<p>pip install numpy matplotlib pillow requests</p>
+<p>pip install openai</p>
+<p>pip install transformers torch</p>
+<p>pip install pyttsx3 speechrecognition pyaudio</p>
+<p>pip install langchain chromadb</p>
+
