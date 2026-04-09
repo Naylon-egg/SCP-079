@@ -1,8 +1,8 @@
 # In terminal
 
-pip install --upgrade pip/n/
-pip install numpy matplotlib pillow requests/n
-pip install openai/n
-pip install transformers torch/n
-pip install pyttsx3 speechrecognition pyaudio/n
-pip install langchain chromadb/n
+pip install --upgrade pip<b>
+pip install numpy matplotlib pillow requests<b>
+pip install openai<b>
+pip install transformers torch<b>
+pip install pyttsx3 speechrecognition pyaudio<b>
+pip install langchain chromadb<b>
